@@ -11,18 +11,30 @@ Aplicação para armazenar repositórios, que irá permitir a criação, listage
 ## Instalação
 
 - Para iniciar a instalação é necessário clonar o repositório
-    >`git clone [url_repositorio]`
 
+  ```shell
+  git clone [url_repositorio]
+  ```
+    
 - Entrar no diretório clonado
-    >`cd gostack-conceitos-nodejs`
 
+  ```shell
+  cd gostack-conceitos-nodejs
+  ```
+  
 - Instalar as dependências do projeto via **NPM** ou **YARN**
-    >`npm install`
+
+  ```shell
+  npm install
+  ```
 
 ## Execução
 
 - Executar o comando para iniciar o back-end
-    >`npm run dev`
+
+  ```shell
+  npm run dev
+  ```
 
 ## Rotas
 
